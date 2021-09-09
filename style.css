@@ -2,6 +2,25 @@ body{
     font-family: 'Glory', sans-serif;
     margin: 0;
 }
+.name{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+div{
+    padding: 10px;
+}
+section{
+    padding: 10px;
+    margin: 10px;
+}
+.box{
+    box-shadow: 2px 2px 2px 3px gray;
+    margin: 5px;
+    padding: 10px;
+}
 
 .container{
     display: flex;
